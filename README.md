@@ -1,4 +1,4 @@
-# Starbank Backend Module 1 - Creation and Activation Accounts
+# Starbank Backend Module 1 - Creation and Activation of Accounts
 
 ![Universidad de Antioquia](https://vias.ciiisol.com/images/LogoFacultaddeIngenieria-verde.png)
 
@@ -24,4 +24,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits on the code.\
 You will also see any lint errors in the console.
 
-To start the frontend project go to the frontend directory and open the **welcome.html** file in your browser. 
+To start the frontend project go to the frontend directory and open the **welcome.html** file on your browser. 
