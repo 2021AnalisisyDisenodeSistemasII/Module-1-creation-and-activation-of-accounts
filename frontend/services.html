@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>Table - Brand</title>
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.0/css/all.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css">
+    <link rel="stylesheet" href="assets/fonts/fontawesome5-overrides.min.css">
+    <link rel="stylesheet" href="assets/css/animated-services.css">
+    <link rel="stylesheet" href="assets/css/Button-Outlines---Pretty.css">
+    <link rel="stylesheet" href="assets/css/Footer-Dark.css">
+    <link rel="stylesheet" href="assets/css/Team-with-rotating-cards.css">
+</head>
+
+<body id="page-top">
+
+    <div id="sucursal-cashier-select">
+        <pre>{{getCurrentSucCas()}}</pre>
+        <div id="wrapper">
+            <nav class="navbar navbar-dark align-items-start sidebar sidebar-dark accordion bg-gradient-primary p-0">
+                <div class="container-fluid d-flex flex-column p-0"><a
+                        class="navbar-brand d-flex justify-content-center align-items-center sidebar-brand m-0"
+                        href="#">
+                        <div class="sidebar-brand-icon rotate-n-15"><i class="fas fa-piggy-bank"></i></div>
+                        <div class="sidebar-brand-text mx-3"><span>Starbank</span></div>
+                    </a>
+                    <div class="card">
+                        <div class="card-body">
+                            <h4 class="card-title">Sucursal: {{current_sucursal}}</h4>
+                            <h6 class="text-muted card-subtitle mb-2">Cashier: {{current_cashier}}</h6>
+                        </div>
+                    </div>
+                    <ul class="navbar-nav text-light" id="accordionSidebar">
+                        <li class="nav-item"><a class="nav-link active" href="services.html"><i
+                                    class="fas fa-table"></i><span>Services</span></a></li>
+                        <li class="nav-item"><a class="nav-link" href="welcome.html"><i
+                                    class="fa fa-exclamation-triangle"></i><span>Log Out</span></a></li>
+                        <li class="nav-item"></li>
+                    </ul>
+                </div>
+            </nav>
+            <div class="d-flex flex-column" id="content-wrapper">
+                <div id="content">
+                    <div class="container-fluid">
+                        <section id="services" class="services">
+                            <div class="container-md section-title">
+                                <div class="text-center">
+                                    <h5 class="d-inline-block justify-content-lg-center"
+                                        style="background-color: #e2d6b5;width: 120px;margin-left: 0px;border-radius: 30px;padding: 5px;margin-top: 20px;color: #ffffff;font-size: 18px;">
+                                        SERVICES</h5>
+                                    <h2 style="color: #75aadb;">Select One Awesome<span
+                                            style="color: #d12d33;"><strong>&nbsp;Service</strong></span></h2>
+                                </div>
+                                <div class="row">
+                                    <div
+                                        class="col-12 text-center col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
+                                        <div class="text-center icon-box">
+                                            <div class="icon"><i class="fas fa-user-plus"
+                                                    style="margin-bottom: 15px;"></i>
+                                                <h4 class="title"><strong>Subscription of Clients</strong><br></h4>
+                                                <p class="text-center description">Natural Person<br>Legal Company</p>
+                                            </div><button class="btn btn-primary disabled" type="button"
+                                                disabled="">Select</button>
+                                        </div>
+                                    </div>
+                                    <div
+                                        class="col-12 text-center col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
+                                        <div class="text-center icon-box">
+                                            <div class="icon"><i class="far fa-address-book"
+                                                    style="margin-bottom: 15px;"></i>
+                                                <h4 class="title"><strong>Opening of Accounts&nbsp;</strong><br><a
+                                                        href="#"></a></h4>
+                                                <p class="description">Saving Account&nbsp; <br>Current
+                                                    Account&nbsp;&nbsp;
+                                                </p>
+                                            </div><button class="btn btn-primary disabled" type="button"
+                                                disabled="">Select</button>
+                                        </div>
+                                    </div>
+                                    <div
+                                        class="col-12 text-center col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
+                                        <div class="text-center icon-box">
+                                            <div class="icon"><i class="fas fa-balance-scale"
+                                                    style="margin-bottom: 15px;"></i>
+                                                <h4 class="title"><strong>Manage Account Balance</strong></h4>
+                                                <p class="description">Make Consignments<br>Make Withdrawals&nbsp;&nbsp;
+                                                </p>
+                                            </div><button class="btn btn-primary disabled" type="button"
+                                                disabled="">Select</button>
+                                        </div>
+                                    </div>
+                                    <div
+                                        class="col-12 text-center col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
+                                        <div class="text-center icon-box">
+                                            <div class="icon"><i class="fas fa-lock" style="margin-bottom: 15px;"></i>
+                                                <h4 class="title"><strong>Deactivate an Account&nbsp;</strong></h4>
+                                                <p class="description">Do it when the client request it&nbsp;<br>&nbsp;
+                                                    &nbsp; &nbsp;&nbsp;</p>
+                                            </div><button class="btn btn-primary disabled" type="button"
+                                                disabled="">Select</button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                </div>
+                <footer>
+                    <div>
+                        <footer class="footer-dark">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col item social"><a
+                                            href="https://github.com/2021AnalisisyDisenodeSistemasII/Module-1-opening-and-activation-of-accounts"><i
+                                                class="icon ion-social-github"></i></a></div>
+                                </div>
+                                <p class="copyright">Module 1: Opening and activation of accounts © 2021</p>
+                            </div>
+                        </footer>
+                    </div>
+                </footer>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/js/theme.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.6.14/dist/vue.js"></script>
+    <script src="assets/js/main.js"></script>
+</body>
+
+</html>
