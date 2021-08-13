@@ -1,0 +1,112 @@
+{
+    "0": {
+        "cashiers": [
+            "0",
+            "1",
+            "18",
+            "20",
+            "26",
+            "33",
+            "34",
+            "41"
+        ],
+        "sucursal_address": "50932 Williams Locks Johnsonchester, PA 18261",
+        "city": "pereira"
+    },
+    "1": {
+        "cashiers": [
+            "37",
+            "45"
+        ],
+        "sucursal_address": "3484 Flores Mission Apt. 641 Kevinberg, AZ 74783",
+        "city": "medellin"
+    },
+    "2": {
+        "cashiers": [
+            "4",
+            "7",
+            "27",
+            "29",
+            "38",
+            "43",
+            "44",
+            "47",
+            "48"
+        ],
+        "sucursal_address": "4050 Joyce Islands Apt. 250 West Anthonybury, MT 38138",
+        "city": "sabaneta"
+    },
+    "3": {
+        "cashiers": [
+            "6",
+            "11",
+            "16",
+            "19",
+            "35",
+            "36"
+        ],
+        "sucursal_address": "2114 Carl Fall Johnsonborough, OK 08867",
+        "city": "envigado"
+    },
+    "4": {
+        "cashiers": [
+            "2",
+            "8",
+            "17",
+            "22",
+            "30",
+            "39",
+            "46"
+        ],
+        "sucursal_address": "PSC 7265, Box 3528 APO AE 41020",
+        "city": "itagui"
+    },
+    "5": {
+        "cashiers": [
+            "3",
+            "12",
+            "15",
+            "49"
+        ],
+        "sucursal_address": "8832 Zachary Knoll Apt. 855 Berryfort, MA 54146",
+        "city": "bello"
+    },
+    "6": {
+        "cashiers": [
+            "10",
+            "14",
+            "21",
+            "24",
+            "28"
+        ],
+        "sucursal_address": "1395 Maria Lane Suite 074 West Peter, CO 13750",
+        "city": "santa rosa de osos"
+    },
+    "7": {
+        "cashiers": [
+            "5",
+            "23",
+            "42"
+        ],
+        "sucursal_address": "58103 Kathryn Estates Apt. 218 Lake Brandon, DC 64269",
+        "city": "prado"
+    },
+    "8": {
+        "cashiers": [
+            "13"
+        ],
+        "sucursal_address": "65961 Powell Fork Port Christopherborough, IN 84325",
+        "city": "barbosa"
+    },
+    "9": {
+        "cashiers": [
+            "9",
+            "25",
+            "31",
+            "32",
+            "40"
+        ],
+        "sucursal_address": "218 Smith Avenue Lake David, WV 09268",
+        "city": "bogota"
+    }
+}
