@@ -1,0 +1,324 @@
+{
+    "ea453ab6-C": {
+        "transaction_name": "consignment",
+        "to_account_id": "69c3b9bdccaee16a",
+        "value": 80000,
+        "transaction_date": "04/08/2021 15:44:26",
+        "sucursal_id": "4"
+    },
+    "77e3884d-C": {
+        "transaction_name": "consignment",
+        "to_account_id": "a6161ef436072be9",
+        "value": 50000,
+        "transaction_date": "04/08/2021 15:44:26",
+        "sucursal_id": "9"
+    },
+    "e00486b2-C": {
+        "transaction_name": "consignment",
+        "to_account_id": "7871d11ac0e2babf",
+        "value": 400000,
+        "transaction_date": "04/08/2021 15:44:26",
+        "sucursal_id": "6"
+    },
+    "4f28dc9f-C": {
+        "transaction_name": "consignment",
+        "to_account_id": "3e379511399875fb",
+        "value": 400000,
+        "transaction_date": "04/08/2021 15:44:26",
+        "sucursal_id": "9"
+    },
+    "7ab07c2c-C": {
+        "transaction_name": "consignment",
+        "to_account_id": "69c3b9bdccaee16a",
+        "value": 230000,
+        "transaction_date": "04/08/2021 15:44:26",
+        "sucursal_id": "8"
+    },
+    "ece47e47-C": {
+        "transaction_name": "consignment",
+        "to_account_id": "501786047cdc7cce",
+        "value": 480000,
+        "transaction_date": "04/08/2021 15:44:26",
+        "sucursal_id": "9"
+    },
+    "4eeab1a2-C": {
+        "transaction_name": "consignment",
+        "to_account_id": "501786047cdc7cce",
+        "value": 300000,
+        "transaction_date": "04/08/2021 15:44:26",
+        "sucursal_id": "3"
+    },
+    "81655bff-C": {
+        "transaction_name": "consignment",
+        "to_account_id": "501786047cdc7cce",
+        "value": 620000,
+        "transaction_date": "04/08/2021 15:44:26",
+        "sucursal_id": "8"
+    },
+    "35b587ff-C": {
+        "transaction_name": "consignment",
+        "to_account_id": "e7410c05b4df26d9",
+        "value": 80000,
+        "transaction_date": "04/08/2021 15:44:26",
+        "sucursal_id": "1"
+    },
+    "42ea9eac-C": {
+        "transaction_name": "consignment",
+        "to_account_id": "7871d11ac0e2babf",
+        "value": 330000,
+        "transaction_date": "04/08/2021 15:44:26",
+        "sucursal_id": "8"
+    },
+    "997a0d24-C": {
+        "transaction_name": "consignment",
+        "to_account_id": "a6161ef436072be9",
+        "value": 480000,
+        "transaction_date": "04/08/2021 15:44:26",
+        "sucursal_id": "9"
+    },
+    "46babddb-C": {
+        "transaction_name": "consignment",
+        "to_account_id": "3e379511399875fb",
+        "value": 0,
+        "transaction_date": "04/08/2021 15:44:26",
+        "sucursal_id": "8"
+    },
+    "90f0e619-C": {
+        "transaction_name": "consignment",
+        "to_account_id": "c1f20628b9d81fc1",
+        "value": 970000,
+        "transaction_date": "04/08/2021 15:44:26",
+        "sucursal_id": "9"
+    },
+    "8567a908-C": {
+        "transaction_name": "consignment",
+        "to_account_id": "a6161ef436072be9",
+        "value": 940000,
+        "transaction_date": "04/08/2021 15:44:26",
+        "sucursal_id": "3"
+    },
+    "5bf24bd1-C": {
+        "transaction_name": "consignment",
+        "to_account_id": "f4e06c6aa3a1e001",
+        "value": 740000,
+        "transaction_date": "04/08/2021 15:44:26",
+        "sucursal_id": "0"
+    },
+    "ba4fe449-C": {
+        "transaction_name": "consignment",
+        "to_account_id": "f4e06c6aa3a1e001",
+        "value": 820000,
+        "transaction_date": "04/08/2021 15:44:26",
+        "sucursal_id": "6"
+    },
+    "8766f54b-C": {
+        "transaction_name": "consignment",
+        "to_account_id": "3e379511399875fb",
+        "value": 690000,
+        "transaction_date": "04/08/2021 15:44:26",
+        "sucursal_id": "6"
+    },
+    "8b9d1ce9-C": {
+        "transaction_name": "consignment",
+        "to_account_id": "69c3b9bdccaee16a",
+        "value": 810000,
+        "transaction_date": "04/08/2021 15:44:26",
+        "sucursal_id": "8"
+    },
+    "6f8c3f1e-C": {
+        "transaction_name": "consignment",
+        "to_account_id": "76a886d0082f3f1d",
+        "value": 980000,
+        "transaction_date": "04/08/2021 15:44:26",
+        "sucursal_id": "2"
+    },
+    "c64d46cf-C": {
+        "transaction_name": "consignment",
+        "to_account_id": "f4e06c6aa3a1e001",
+        "value": 980000,
+        "transaction_date": "04/08/2021 15:44:26",
+        "sucursal_id": "8"
+    },
+    "0f414003-R": {
+        "transaction_name": "withdrawal",
+        "from_account_id": "a6161ef436072be9",
+        "value": -480000,
+        "transaction_date": "04/08/2021 16:06:46",
+        "sucursal_id": "0"
+    },
+    "02a82fc9-R": {
+        "transaction_name": "withdrawal",
+        "from_account_id": "f4e06c6aa3a1e001",
+        "value": -530000,
+        "transaction_date": "04/08/2021 16:06:46",
+        "sucursal_id": "7"
+    },
+    "578fb6e2-R": {
+        "transaction_name": "withdrawal",
+        "from_account_id": "e7410c05b4df26d9",
+        "value": -520000,
+        "transaction_date": "04/08/2021 16:06:46",
+        "sucursal_id": "5"
+    },
+    "a74b58e3-R": {
+        "transaction_name": "withdrawal",
+        "from_account_id": "c1f20628b9d81fc1",
+        "value": -590000,
+        "transaction_date": "04/08/2021 16:06:46",
+        "sucursal_id": "7"
+    },
+    "8f085d32-R": {
+        "transaction_name": "withdrawal",
+        "from_account_id": "3e379511399875fb",
+        "value": -750000,
+        "transaction_date": "04/08/2021 16:06:46",
+        "sucursal_id": "3"
+    },
+    "256614b1-R": {
+        "transaction_name": "withdrawal",
+        "from_account_id": "7871d11ac0e2babf",
+        "value": -650000,
+        "transaction_date": "04/08/2021 16:06:46",
+        "sucursal_id": "1"
+    },
+    "688c6117-R": {
+        "transaction_name": "withdrawal",
+        "from_account_id": "7871d11ac0e2babf",
+        "value": -880000,
+        "transaction_date": "04/08/2021 16:06:46",
+        "sucursal_id": "9"
+    },
+    "7a7accc5-R": {
+        "transaction_name": "withdrawal",
+        "from_account_id": "f4e06c6aa3a1e001",
+        "value": -720000,
+        "transaction_date": "04/08/2021 16:06:46",
+        "sucursal_id": "1"
+    },
+    "700bf821-R": {
+        "transaction_name": "withdrawal",
+        "from_account_id": "c1f20628b9d81fc1",
+        "value": -740000,
+        "transaction_date": "04/08/2021 16:06:46",
+        "sucursal_id": "1"
+    },
+    "07e6e3c9-R": {
+        "transaction_name": "withdrawal",
+        "from_account_id": "3e379511399875fb",
+        "value": -920000,
+        "transaction_date": "04/08/2021 16:06:46",
+        "sucursal_id": "9"
+    },
+    "f7dd579c-R": {
+        "transaction_name": "withdrawal",
+        "from_account_id": "eabd83cca3528020",
+        "value": -790000,
+        "transaction_date": "04/08/2021 16:06:46",
+        "sucursal_id": "2"
+    },
+    "ceba16a6-R": {
+        "transaction_name": "withdrawal",
+        "from_account_id": "eabd83cca3528020",
+        "value": -680000,
+        "transaction_date": "04/08/2021 16:06:46",
+        "sucursal_id": "2"
+    },
+    "b7b3d3f2-R": {
+        "transaction_name": "withdrawal",
+        "from_account_id": "69c3b9bdccaee16a",
+        "value": -540000,
+        "transaction_date": "04/08/2021 16:06:46",
+        "sucursal_id": "5"
+    },
+    "3d809dd6-R": {
+        "transaction_name": "withdrawal",
+        "from_account_id": "501786047cdc7cce",
+        "value": -700000,
+        "transaction_date": "04/08/2021 16:06:46",
+        "sucursal_id": "1"
+    },
+    "1d888da1-R": {
+        "transaction_name": "withdrawal",
+        "from_account_id": "76a886d0082f3f1d",
+        "value": -730000,
+        "transaction_date": "04/08/2021 16:06:46",
+        "sucursal_id": "9"
+    },
+    "ec864eb3-R": {
+        "transaction_name": "withdrawal",
+        "from_account_id": "a6161ef436072be9",
+        "value": -200000,
+        "transaction_date": "04/08/2021 16:06:46",
+        "sucursal_id": "1"
+    },
+    "3d989138-R": {
+        "transaction_name": "withdrawal",
+        "from_account_id": "69c3b9bdccaee16a",
+        "value": -480000,
+        "transaction_date": "04/08/2021 16:06:46",
+        "sucursal_id": "6"
+    },
+    "90b1a493-R": {
+        "transaction_name": "withdrawal",
+        "from_account_id": "69c3b9bdccaee16a",
+        "value": -380000,
+        "transaction_date": "04/08/2021 16:06:46",
+        "sucursal_id": "6"
+    },
+    "2bc91221-R": {
+        "transaction_name": "withdrawal",
+        "from_account_id": "7871d11ac0e2babf",
+        "value": -640000,
+        "transaction_date": "04/08/2021 16:06:46",
+        "sucursal_id": "9"
+    },
+    "42bec494-R": {
+        "transaction_name": "withdrawal",
+        "from_account_id": "76a886d0082f3f1d",
+        "value": -280000,
+        "transaction_date": "04/08/2021 16:06:46",
+        "sucursal_id": "8"
+    },
+    "cf9fdb7e-X": {
+        "transaction_name": "inactivation",
+        "from_account_id": "501786047cdc7cce",
+        "value": -700000,
+        "transaction_date": "04/08/2021 16:30:46",
+        "sucursal_id": "9"
+    },
+    "e99ade62-X": {
+        "transaction_name": "inactivation",
+        "from_account_id": "76a886d0082f3f1d",
+        "value": -250000,
+        "transaction_date": "04/08/2021 16:30:46",
+        "sucursal_id": "2"
+    },
+    "6f40a049-X": {
+        "transaction_name": "inactivation",
+        "from_account_id": "c1f20628b9d81fc1",
+        "value": -380000,
+        "transaction_date": "04/08/2021 16:30:46",
+        "sucursal_id": "9"
+    },
+    "fbb46bee-X": {
+        "transaction_name": "inactivation",
+        "from_account_id": "69c3b9bdccaee16a",
+        "value": -100000,
+        "transaction_date": "04/08/2021 16:30:46",
+        "sucursal_id": "8"
+    },
+    "da1fe64b-X": {
+        "transaction_name": "inactivation",
+        "from_account_id": "f4e06c6aa3a1e001",
+        "value": -1290000,
+        "transaction_date": "04/08/2021 16:30:46",
+        "sucursal_id": "2"
+    },
+    "42a6b993-C": {
+        "transaction_name": "consignment",
+        "to_account_id": "210e5af017b37bf1",
+        "value": 250000,
+        "transaction_date": "10/08/2021 15:44:26",
+        "sucursal_id": "3"
+    }
+}
