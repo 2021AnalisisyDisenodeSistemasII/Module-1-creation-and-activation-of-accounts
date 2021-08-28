@@ -1,0 +1,765 @@
+{
+    "35559562-1": {
+        "accounts": [
+            "d935ca7a4d29ae1e",
+            "60401d1521a00cf0"
+        ],
+        "phone": "3181608631",
+        "client_name": "Joshua Powell",
+        "client_occupation": "cajero",
+        "client_address": "0096 David Meadows Suite 231 Brookeborough, CO 43491",
+        "client_id": "35559562",
+        "company_name": "Pan Diaz",
+        "cluster": "internet"
+    },
+    "96974161-9": {
+        "accounts": [
+            "5c9816048e0b5bfa",
+            "00c58ae135c46ee3",
+            "efaceda62210093b"
+        ],
+        "phone": "3094263812",
+        "client_name": "Margaret Esparza",
+        "client_occupation": "musico",
+        "client_address": "02651 Alexander Crossroad Suite 651 Stevenside, SC 53445",
+        "client_id": "96974161",
+        "company_name": "Bares Chaney",
+        "cluster": "servicio al cliente"
+    },
+    "24395948-2": {
+        "accounts": [],
+        "phone": "3160503149",
+        "client_name": "Tracy Mason",
+        "client_occupation": "actor",
+        "client_address": "220 Michelle Turnpike Apt. 468 Lake Aprilmouth, IL 99308",
+        "client_id": "24395948",
+        "company_name": "Algod\\u00f3n de az\\u00facar Gonzalez",
+        "cluster": "internet"
+    },
+    "80978607-8": {
+        "accounts": [
+            "cac1c52b279641e0",
+            "b7af0a73e5000321",
+            "20289b9252b6cf86",
+            "bc8acc01c549c165",
+            "9948f59efe7deea0"
+        ],
+        "phone": "3201262258",
+        "client_name": "Timothy Alvarado",
+        "client_occupation": "esclavo",
+        "client_address": "322 Robert Drive Apt. 519 Alecstad, ND 50373",
+        "client_id": "80978607",
+        "company_name": "Cupcake Irwin",
+        "cluster": "cafeteria"
+    },
+    "44745070-0": {
+        "accounts": [
+            "3b7a8ab0a0d726c5",
+            "4a6f522ec80c6010",
+            "ca177059752aa65f",
+            "e3dbc060762d5588",
+            "22ee2638a232ee85"
+        ],
+        "phone": "3127915692",
+        "client_name": "David Moss",
+        "client_occupation": "mascota",
+        "client_address": "88408 Morse Fords West Christinefurt, MS 77045",
+        "client_id": "44745070",
+        "company_name": "Pastelitos Hebert",
+        "cluster": "transporte de alimentos"
+    },
+    "39861943-0": {
+        "accounts": [],
+        "phone": "3086720245",
+        "client_name": "Jennifer Finley",
+        "client_occupation": "director",
+        "client_address": "USCGC Bush FPO AE 16387",
+        "client_id": "39861943",
+        "company_name": "Vino Acosta",
+        "cluster": "panaderia"
+    },
+    "10931278-9": {
+        "accounts": [
+            "dd0a366029aea0b5"
+        ],
+        "phone": "3064838807",
+        "client_name": "Dr. Kristin Tran",
+        "client_occupation": "desempleado",
+        "client_address": "93531 Bradley Bridge Craigport, CT 83161",
+        "client_id": "10931278",
+        "company_name": "Pan Holmes",
+        "cluster": "internet"
+    },
+    "95317002-0": {
+        "accounts": [
+            "fe910f953aecb0ca",
+            "9e4ad44a2aa24394"
+        ],
+        "phone": "3066330813",
+        "client_name": "Amy Rubio",
+        "client_occupation": "alba\\u00f1il",
+        "client_address": "039 Robert Ville Apt. 589 North Cassieton, CO 27567",
+        "client_id": "95317002",
+        "company_name": "Chocolate Hunt",
+        "cluster": "transporte de alimentos"
+    },
+    "44369549-1": {
+        "accounts": [
+            "3917eda551beeffb"
+        ],
+        "phone": "3178539626",
+        "client_name": "Jeffery Lutz",
+        "client_occupation": "actor",
+        "client_address": "4262 Beck Club Apt. 310 Smithborough, DE 75993",
+        "client_id": "44369549",
+        "company_name": "Aceite Rogers",
+        "cluster": "venta de comestibles"
+    },
+    "62984534-2": {
+        "accounts": [
+            "8813f133f8de9a7b",
+            "bfba518d71bf95e0"
+        ],
+        "phone": "3034381459",
+        "client_name": "Michael Rodgers",
+        "client_occupation": "conductor",
+        "client_address": "321 Christian Alley Lake Amanda, AL 39316",
+        "client_id": "62984534",
+        "company_name": "Postres Newton",
+        "cluster": "venta de comestibles"
+    },
+    "35349353-2": {
+        "accounts": [
+            "90dc0dfa8b869469",
+            "5151e6a7e0abae27"
+        ],
+        "phone": "3068461927",
+        "client_name": "Cindy Hill",
+        "client_occupation": "director",
+        "client_address": "74090 Walker Course Apt. 874 North Alisontown, WI 77950",
+        "client_id": "35349353",
+        "company_name": "S\\u00e1ndwiches Rice",
+        "cluster": "pasteleria"
+    },
+    "75709781-4": {
+        "accounts": [],
+        "phone": "3153834521",
+        "client_name": "Ruben Wallace",
+        "client_occupation": "profesor",
+        "client_address": "329 Vanessa Trail Apt. 938 New Shawn, OR 71003",
+        "client_id": "75709781",
+        "company_name": "Algod\\u00f3n de az\\u00facar Carpenter",
+        "cluster": "venta de comestibles"
+    },
+    "78018577-2": {
+        "accounts": [
+            "a2b26f0615b4da2a",
+            "1e8aab25171f6b21"
+        ],
+        "phone": "3076599574",
+        "client_name": "Diane Carroll",
+        "client_occupation": "independiente",
+        "client_address": "09957 Pineda Ferry South Erin, NE 72472",
+        "client_id": "78018577",
+        "company_name": "Cerveza Hall",
+        "cluster": "cafeteria"
+    },
+    "76037623-8": {
+        "accounts": [
+            "e04757c6d79c4cbc"
+        ],
+        "phone": "3117733917",
+        "client_name": "Jacob Miller",
+        "client_occupation": "desempleado",
+        "client_address": "774 Mark Row Apt. 806 Gabriellechester, VA 39376",
+        "client_id": "76037623",
+        "company_name": "Aceite Miller",
+        "cluster": "servicio al cliente"
+    },
+    "21930880-0": {
+        "accounts": [
+            "047a559d50d61eff",
+            "e703da886a968a96",
+            "3ea39eb2dab01f01"
+        ],
+        "phone": "3035134967",
+        "client_name": "Amber Harris",
+        "client_occupation": "alba\\u00f1il",
+        "client_address": "Unit 4812 Box 7492 DPO AE 68932",
+        "client_id": "21930880",
+        "company_name": "Granizados Marsh",
+        "cluster": "panaderia"
+    },
+    "91060254-6": {
+        "accounts": [
+            "7d09e0a03dabead5"
+        ],
+        "phone": "3158679048",
+        "client_name": "Amanda Garcia",
+        "client_occupation": "secretario",
+        "client_address": "3130 Leah View Torresfurt, MS 63481",
+        "client_id": "91060254",
+        "company_name": "Chocolate Harrington",
+        "cluster": "servicio al cliente"
+    },
+    "70881331-0": {
+        "accounts": [
+            "2edeb0f815018693"
+        ],
+        "phone": "3146685587",
+        "client_name": "Laura Morrison",
+        "client_occupation": "director",
+        "client_address": "751 Ashlee Mountain Apt. 083 Bauerberg, NH 77217",
+        "client_id": "70881331",
+        "company_name": "Pastelitos Snyder",
+        "cluster": "transporte de alimentos"
+    },
+    "94020180-5": {
+        "accounts": [
+            "0d680585ea6ead4d",
+            "e8fd965a72726a27"
+        ],
+        "phone": "3156236556",
+        "client_name": "Christopher Lynch",
+        "client_occupation": "servidor publico",
+        "client_address": "PSC 8184, Box 1632 APO AP 28769",
+        "client_id": "94020180",
+        "company_name": "Cerveza Webb",
+        "cluster": "pasteleria"
+    },
+    "98160535-9": {
+        "accounts": [
+            "879b0b234a29075a",
+            "7db5e3b8c1e84a1f",
+            "a19f26a3169f7ff0",
+            "290259624d4ea801"
+        ],
+        "phone": "3005072378",
+        "client_name": "Amanda Haynes",
+        "client_occupation": "supervisor",
+        "client_address": "USNV Clark FPO AA 60445",
+        "client_id": "98160535",
+        "company_name": "Chocolate Logan",
+        "cluster": "cafeteria"
+    },
+    "34255597-6": {
+        "accounts": [
+            "4a50fd084f7d9027"
+        ],
+        "phone": "3095125278",
+        "client_name": "Brandon Jimenez",
+        "client_occupation": "animador",
+        "client_address": "6727 Dylan Mountains Apt. 394 New Michelleville, VT 70772",
+        "client_id": "34255597",
+        "company_name": "Batidos John",
+        "cluster": "venta de comestibles"
+    },
+    "92493215-0": {
+        "accounts": [
+            "122a9223b49db989",
+            "3dd70160b6b4e49e",
+            "83db0886c1d1dbc8"
+        ],
+        "phone": "3172527144",
+        "client_name": "Terry Ross",
+        "client_occupation": "cajero",
+        "client_address": "897 Diane Isle Suite 843 Katrinahaven, NH 54216",
+        "client_id": "92493215",
+        "company_name": "Bares Harris",
+        "cluster": "venta de comestibles"
+    },
+    "47086191-9": {
+        "accounts": [
+            "b956f0488b5b75aa",
+            "488dc42575dcee33",
+            "c1afd35b17ea2471"
+        ],
+        "phone": "3056885395",
+        "client_name": "Andrew Potts",
+        "client_occupation": "musico",
+        "client_address": "9775 Perry Tunnel Apt. 666 Port Jennifermouth, TX 91333",
+        "client_id": "47086191",
+        "company_name": "Caramelos Gibson",
+        "cluster": "internet"
+    },
+    "37107416-9": {
+        "accounts": [
+            "c3782814f05bb39b",
+            "e7bf831ca3c69d35",
+            "a960d3c48eb47331"
+        ],
+        "phone": "3035398702",
+        "client_name": "Joshua Green",
+        "client_occupation": "animador",
+        "client_address": "USNV Garza FPO AA 16827",
+        "client_id": "37107416",
+        "company_name": "Granizados Lang",
+        "cluster": "servicio al cliente"
+    },
+    "50552297-8": {
+        "accounts": [
+            "12f279b399f6d23e",
+            "d4882011dbcc0ece",
+            "b437cd1dde117949",
+            "f14f0d4243b8ad7d"
+        ],
+        "phone": "3194086167",
+        "client_name": "Ashley King",
+        "client_occupation": "estudiante",
+        "client_address": "266 Berger Rue Brooksfurt, MD 86728",
+        "client_id": "50552297",
+        "company_name": "Postres Shaw",
+        "cluster": "venta de comestibles"
+    },
+    "68440440-7": {
+        "accounts": [
+            "0af43e6ec8b09fae",
+            "9051a57e2b17f240"
+        ],
+        "phone": "3163480891",
+        "client_name": "Patty Andrews",
+        "client_occupation": "actor",
+        "client_address": "0517 Harper Stream Petersonfort, MA 49334",
+        "client_id": "68440440",
+        "company_name": "Pasteles Wright",
+        "cluster": "internet"
+    },
+    "41780706-5": {
+        "accounts": [
+            "0ea07bd7315a610d",
+            "c57d0f1749a601cc"
+        ],
+        "phone": "3182941612",
+        "client_name": "Juan Sutton",
+        "client_occupation": "programador",
+        "client_address": "109 David Circles East Andres, OR 73348",
+        "client_id": "41780706",
+        "company_name": "Chocolate Wells",
+        "cluster": "transporte de alimentos"
+    },
+    "71306773-2": {
+        "accounts": [
+            "9ccf4295fe9b6ffa"
+        ],
+        "phone": "3031966412",
+        "client_name": "Elizabeth Miller",
+        "client_occupation": "limpiador",
+        "client_address": "910 Johnston Ramp Katherinetown, KS 78343",
+        "client_id": "71306773",
+        "company_name": "Pastelitos Jenkins",
+        "cluster": "panaderia"
+    },
+    "36391098-1": {
+        "accounts": [],
+        "phone": "3114340993",
+        "client_name": "Laura Wright",
+        "client_occupation": "programador",
+        "client_address": "7164 Zavala Trail Apt. 151 Jenniferfurt, NE 10581",
+        "client_id": "36391098",
+        "company_name": "Algod\\u00f3n de az\\u00facar Salazar",
+        "cluster": "servicio al cliente"
+    },
+    "37637779-2": {
+        "accounts": [],
+        "phone": "3038289570",
+        "client_name": "Jade Kelley",
+        "client_occupation": "limpiador",
+        "client_address": "985 Terry Pine Apt. 435 West Angela, PA 26834",
+        "client_id": "37637779",
+        "company_name": "Helados Austin",
+        "cluster": "pasteleria"
+    },
+    "89623431-0": {
+        "accounts": [
+            "49ac1f039a97e088",
+            "7dab8df71c26aa3e"
+        ],
+        "phone": "3197207227",
+        "client_name": "Sherry Turner",
+        "client_occupation": "ingeniero",
+        "client_address": "20831 Bradshaw Street Suite 652 New Margaretborough, GA 25876",
+        "client_id": "89623431",
+        "company_name": "Chocolate Zavala",
+        "cluster": "servicio al cliente"
+    },
+    "13728920-1": {
+        "accounts": [
+            "78cd7d87762a42a9",
+            "f955b4d62b7162c7"
+        ],
+        "phone": "3086979858",
+        "client_name": "Jeremy Evans",
+        "client_occupation": "conductor",
+        "client_address": "58686 Chang Extensions Theresahaven, PA 02356",
+        "client_id": "13728920",
+        "company_name": "Postres Stewart",
+        "cluster": "internet"
+    },
+    "87035588-7": {
+        "accounts": [
+            "7f3abb7e6e4e709b",
+            "0fdad62a1356825e",
+            "54615358eb195e69"
+        ],
+        "phone": "3158150573",
+        "client_name": "Kristi Mckinney",
+        "client_occupation": "militar",
+        "client_address": "729 Laurie Summit Suite 431 Frederickstad, NY 64231",
+        "client_id": "87035588",
+        "company_name": "Jugo Gonzalez",
+        "cluster": "servicio al cliente"
+    },
+    "48322820-1": {
+        "accounts": [
+            "04083530966b5ad5",
+            "a6f789189f383bea",
+            "27e99b7925ea6351"
+        ],
+        "phone": "3020490356",
+        "client_name": "Oscar Garner",
+        "client_occupation": "cajero",
+        "client_address": "69786 Cameron Spurs Tylershire, VA 58861",
+        "client_id": "48322820",
+        "company_name": "Bares Kim",
+        "cluster": "cafeteria"
+    },
+    "25199628-1": {
+        "accounts": [
+            "6727e29c2fa8be3f"
+        ],
+        "phone": "3085270255",
+        "client_name": "William Hill",
+        "client_occupation": "independiente",
+        "client_address": "927 Donna Roads Victoriahaven, NC 59853",
+        "client_id": "25199628",
+        "company_name": "Granizados Anderson",
+        "cluster": "cafeteria"
+    },
+    "24147692-0": {
+        "accounts": [
+            "5488c8f06a08802f"
+        ],
+        "phone": "3082049133",
+        "client_name": "Corey Garcia",
+        "client_occupation": "estudiante",
+        "client_address": "5218 Bruce Groves Apt. 253 Alexanderfort, CA 59925",
+        "client_id": "24147692",
+        "company_name": "Comida Kelly",
+        "cluster": "venta de comestibles"
+    },
+    "21812626-4": {
+        "accounts": [
+            "3f44fd3116a53600"
+        ],
+        "phone": "3195429900",
+        "client_name": "Jane Lynch",
+        "client_occupation": "alba\\u00f1il",
+        "client_address": "593 Tommy Bridge Suite 548 Jacquelinefurt, VA 66860",
+        "client_id": "21812626",
+        "company_name": "Jugo Schneider",
+        "cluster": "internet"
+    },
+    "29705479-7": {
+        "accounts": [
+            "995c6051306524ac"
+        ],
+        "phone": "3195892170",
+        "client_name": "David Rosales",
+        "client_occupation": "secretario",
+        "client_address": "45494 Carlos Port Apt. 140 West Danieltown, IL 74849",
+        "client_id": "29705479",
+        "company_name": "S\\u00e1ndwiches Anderson",
+        "cluster": "cafeteria"
+    },
+    "12842731-3": {
+        "accounts": [
+            "7a4135e65042457e"
+        ],
+        "phone": "3025161330",
+        "client_name": "Brandon Ford",
+        "client_occupation": "actor",
+        "client_address": "35245 Henry Centers South Allenview, WY 31469",
+        "client_id": "12842731",
+        "company_name": "Miel King",
+        "cluster": "transporte de alimentos"
+    },
+    "36639888-9": {
+        "accounts": [
+            "9745a39eedb50a54"
+        ],
+        "phone": "3056148854",
+        "client_name": "Sarah Rasmussen",
+        "client_occupation": "musico",
+        "client_address": "2263 Alicia Forest Richardside, IN 95368",
+        "client_id": "36639888",
+        "company_name": "Postres Johnson",
+        "cluster": "internet"
+    },
+    "13626209-4": {
+        "accounts": [
+            "8a599c8fc1a1de1f"
+        ],
+        "phone": "3201138823",
+        "client_name": "Steven Wilson",
+        "client_occupation": "cajero",
+        "client_address": "129 Ashley Crescent West Heatherburgh, HI 50369",
+        "client_id": "13626209",
+        "company_name": "Pasteles Smith",
+        "cluster": "cafeteria"
+    },
+    "91372598-9": {
+        "accounts": [
+            "042d0b62d9ecf448",
+            "b0ae0a920dc86b8b",
+            "6d9ed44b852fd88c"
+        ],
+        "phone": "3187394915",
+        "client_name": "Lauren Hammond",
+        "client_occupation": "alba\\u00f1il",
+        "client_address": "967 Carter Trail Paulfurt, MI 79798",
+        "client_id": "91372598",
+        "company_name": "S\\u00e1ndwiches Lee",
+        "cluster": "internet"
+    },
+    "93586991-8": {
+        "accounts": [],
+        "phone": "3188366778",
+        "client_name": "Evan Jackson",
+        "client_occupation": "secretario",
+        "client_address": "024 John Ridges Suite 129 North Laura, CA 65939",
+        "client_id": "93586991",
+        "company_name": "Caf\\u00e9 Whitehead",
+        "cluster": "transporte de alimentos"
+    },
+    "44046418-8": {
+        "accounts": [
+            "748b337b12b45aed",
+            "6e4921b55f48f0ee"
+        ],
+        "phone": "3154159954",
+        "client_name": "Penny Adams",
+        "client_occupation": "servidor publico",
+        "client_address": "733 Torres Forest East Kenneth, VT 13945",
+        "client_id": "44046418",
+        "company_name": "Pizza Ford",
+        "cluster": "servicio al cliente"
+    },
+    "42953038-4": {
+        "accounts": [
+            "59f093c6c276a6b5",
+            "a5fefb8418b60dd4"
+        ],
+        "phone": "3107127628",
+        "client_name": "Alyssa Anderson",
+        "client_occupation": "limpiador",
+        "client_address": "17067 Cain Mission New Thomasberg, CO 02380",
+        "client_id": "42953038",
+        "company_name": "Chocolate Beasley",
+        "cluster": "cafeteria"
+    },
+    "56756335-8": {
+        "accounts": [
+            "560280593f8d83b8"
+        ],
+        "phone": "3196197771",
+        "client_name": "Phillip Park",
+        "client_occupation": "supervisor",
+        "client_address": "13463 Gonzalez Motorway Apt. 909 Port Angelaside, CA 52522",
+        "client_id": "56756335",
+        "company_name": "Pastelitos Green",
+        "cluster": "transporte de alimentos"
+    },
+    "39893331-1": {
+        "accounts": [],
+        "phone": "3163527943",
+        "client_name": "Jon Allen",
+        "client_occupation": "independiente",
+        "client_address": "091 Page Pines Apt. 898 North Alanchester, IA 26785",
+        "client_id": "39893331",
+        "company_name": "Pasteler\\u00eda Marquez",
+        "cluster": "pasteleria"
+    },
+    "18404723-4": {
+        "accounts": [],
+        "phone": "3153224629",
+        "client_name": "Kim Norman",
+        "client_occupation": "supervisor",
+        "client_address": "5631 Irwin Island North Michael, DE 99079",
+        "client_id": "18404723",
+        "company_name": "Postres Stout",
+        "cluster": "transporte de alimentos"
+    },
+    "48130640-7": {
+        "accounts": [
+            "c3b9072c078e23cf"
+        ],
+        "phone": "3058200837",
+        "client_name": "Terry Green",
+        "client_occupation": "servidor publico",
+        "client_address": "591 Amanda Trail Apt. 629 Cherylland, ME 54240",
+        "client_id": "48130640",
+        "company_name": "Cerveza Wood",
+        "cluster": "cafeteria"
+    },
+    "75368195-0": {
+        "accounts": [
+            "0d430cb0e32c6a99",
+            "362efa9538d43482",
+            "60ab0d2a453d911c",
+            "14687af44427206e"
+        ],
+        "phone": "3092890691",
+        "client_name": "Matthew Marquez",
+        "client_occupation": "alba\\u00f1il",
+        "client_address": "336 John Bridge Apt. 688 Landrystad, MO 20253",
+        "client_id": "75368195",
+        "company_name": "Pastelitos Morgan",
+        "cluster": "venta de comestibles"
+    },
+    "41970916-5": {
+        "accounts": [
+            "e870d3c132d28214"
+        ],
+        "phone": "3126771665",
+        "client_name": "Margaret Webb",
+        "client_occupation": "ingeniero",
+        "client_address": "8295 Christina Corner South Davidville, MI 75323",
+        "client_id": "41970916",
+        "company_name": "Miel Peterson",
+        "cluster": "transporte de alimentos"
+    },
+    "78966418-0": {
+        "accounts": [
+            "77f55ff805a88958",
+            "05da24b2836f09a7",
+            "430dfc55f0ab44f0"
+        ],
+        "phone": "3038718616",
+        "client_name": "Mike Chase",
+        "client_occupation": "animador",
+        "client_address": "USS White FPO AE 21554",
+        "client_id": "78966418",
+        "company_name": "S\\u00e1ndwiches Castro",
+        "cluster": "servicio al cliente"
+    },
+    "77358026-0": {
+        "accounts": [
+            "210e5af017b37bf1",
+            "54a861fa18540e0a",
+            "5b8c4f9eac8f5143",
+            "66d886b8db5ebfea",
+            "1b82132b6c26b670"
+        ],
+        "phone": "3137001228",
+        "client_name": "David Johnson",
+        "client_occupation": "independiente",
+        "client_address": "044 Michelle Stravenue West Williammouth, TX 92790",
+        "client_id": "77358026",
+        "company_name": "Panader\\u00eda Curry",
+        "cluster": "cafeteria"
+    },
+    "83683305-8": {
+        "accounts": [
+            "38bb2eb4d779f2f0",
+            "860c2a7a3eefc638",
+            "62734eb584fbdc0f"
+        ],
+        "phone": "3096897833",
+        "client_name": "Sonya Gonzales",
+        "client_occupation": "conductor",
+        "client_address": "632 Wheeler Crest Collierview, CA 34522",
+        "client_id": "83683305",
+        "company_name": "Pasteler\\u00eda Ross",
+        "cluster": "venta de comestibles"
+    },
+    "20474747-3": {
+        "accounts": [
+            "442ba14f27fe0ccb",
+            "38c4e919fa4f19d2"
+        ],
+        "phone": "3144122956",
+        "client_name": "Christopher Jensen",
+        "client_occupation": "ingeniero",
+        "client_address": "297 Emily Pines Suite 192 Weberport, WV 53222",
+        "client_id": "20474747",
+        "company_name": "Galletas Weeks",
+        "cluster": "venta de comestibles"
+    },
+    "62620440-9": {
+        "accounts": [
+            "e884ae297de78b08",
+            "513e8c82cda681d0",
+            "be4e89bb5a3e9035"
+        ],
+        "phone": "3128164140",
+        "client_name": "Joseph Greer",
+        "client_occupation": "esclavo",
+        "client_address": "693 Ho Crest Lake Donnaburgh, SC 10962",
+        "client_id": "62620440",
+        "company_name": "Comida Gonzalez",
+        "cluster": "pasteleria"
+    },
+    "60499258-2": {
+        "accounts": [
+            "cb4e467007c35f88",
+            "a481df60e6fbc26e",
+            "03df320d5d51c3a8",
+            "b4e5f576c54977ad"
+        ],
+        "phone": "3030304594",
+        "client_name": "Tracie Williams",
+        "client_occupation": "animador",
+        "client_address": "549 Doyle Drive Suzanneport, MA 16065",
+        "client_id": "60499258",
+        "company_name": "Cupcake Gray",
+        "cluster": "venta de comestibles"
+    },
+    "38237476-3": {
+        "accounts": [
+            "c9dadb79d48ffe9e"
+        ],
+        "phone": "3205932987",
+        "client_name": "Stephanie Hampton",
+        "client_occupation": "conductor",
+        "client_address": "9111 Turner Ridge Port Heather, MD 69214",
+        "client_id": "38237476",
+        "company_name": "T\\u00e9 e infusiones Harding",
+        "cluster": "panaderia"
+    },
+    "85616743-7": {
+        "accounts": [
+            "498fa2606dd48c96"
+        ],
+        "phone": "3167634150",
+        "client_name": "Michelle Giles",
+        "client_occupation": "animador",
+        "client_address": "6502 Douglas Brook Suite 656 Lake Courtney, ME 46819",
+        "client_id": "85616743",
+        "company_name": "Caf\\u00e9 Moore",
+        "cluster": "transporte de alimentos"
+    },
+    "33260689-0": {
+        "accounts": [
+            "8cb25cfd9dea7c07"
+        ],
+        "phone": "3054328921",
+        "client_name": "Jenna Landry",
+        "client_occupation": "profesor",
+        "client_address": "940 Martha Ways South Michelle, VA 33009",
+        "client_id": "33260689",
+        "company_name": "Pan Ramirez",
+        "cluster": "panaderia"
+    },
+    "88148511-0": {
+        "accounts": [
+            "8f86d8d04d851a09"
+        ],
+        "phone": "3001219183",
+        "client_name": "Bradley Silva",
+        "client_occupation": "esclavo",
+        "client_address": "233 David Coves Lauriemouth, NY 19744",
+        "client_id": "88148511",
+        "company_name": "Postres Owens",
+        "cluster": "panaderia"
+    }
+}

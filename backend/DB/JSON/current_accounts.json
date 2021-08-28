@@ -915,5 +915,15 @@
 		"sucursal_id": "8",
 		"transactions": [],
 		"creation_date": "04-08-2021"
+	},
+	"263cb58708ed9b00": {
+		"isActive": true,
+		"client_id": "25033578",
+		"balance": 8000000000,
+		"sucursal_id": "0",
+		"transactions": [
+			"08a29764-C"
+		],
+		"creation_date": "27-08-2021"
 	}
 }
