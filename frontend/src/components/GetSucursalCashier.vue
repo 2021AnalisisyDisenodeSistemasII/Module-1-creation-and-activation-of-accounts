@@ -45,7 +45,6 @@ export default {
         });
     },
     redirect() {
-      console.log(this.current_cashier);
       this.$router.push("/");
     },
   },
