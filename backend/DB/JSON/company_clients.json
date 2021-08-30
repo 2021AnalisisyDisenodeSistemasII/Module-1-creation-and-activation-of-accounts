@@ -33,7 +33,7 @@
         "client_occupation": "actor",
         "client_address": "220 Michelle Turnpike Apt. 468 Lake Aprilmouth, IL 99308",
         "client_id": "24395948",
-        "company_name": "Algod\\u00f3n de az\\u00facar Gonzalez",
+        "company_name": "Algodon de azuacar Gonzalez",
         "cluster": "internet"
     },
     "80978607-8": {
@@ -97,7 +97,7 @@
         ],
         "phone": "3066330813",
         "client_name": "Amy Rubio",
-        "client_occupation": "alba\\u00f1il",
+        "client_occupation": "albau1il",
         "client_address": "039 Robert Ville Apt. 589 North Cassieton, CO 27567",
         "client_id": "95317002",
         "company_name": "Chocolate Hunt",
@@ -138,7 +138,7 @@
         "client_occupation": "director",
         "client_address": "74090 Walker Course Apt. 874 North Alisontown, WI 77950",
         "client_id": "35349353",
-        "company_name": "S\\u00e1ndwiches Rice",
+        "company_name": "Sandwiches Rice",
         "cluster": "pasteleria"
     },
     "75709781-4": {
@@ -148,7 +148,7 @@
         "client_occupation": "profesor",
         "client_address": "329 Vanessa Trail Apt. 938 New Shawn, OR 71003",
         "client_id": "75709781",
-        "company_name": "Algod\\u00f3n de az\\u00facar Carpenter",
+        "company_name": "Algodon de azuacar Carpenter",
         "cluster": "venta de comestibles"
     },
     "78018577-2": {
@@ -184,7 +184,7 @@
         ],
         "phone": "3035134967",
         "client_name": "Amber Harris",
-        "client_occupation": "alba\\u00f1il",
+        "client_occupation": "albau1il",
         "client_address": "Unit 4812 Box 7492 DPO AE 68932",
         "client_id": "21930880",
         "company_name": "Granizados Marsh",
@@ -356,7 +356,7 @@
         "client_occupation": "programador",
         "client_address": "7164 Zavala Trail Apt. 151 Jenniferfurt, NE 10581",
         "client_id": "36391098",
-        "company_name": "Algod\\u00f3n de az\\u00facar Salazar",
+        "company_name": "Algodon de azuacar Salazar",
         "cluster": "servicio al cliente"
     },
     "37637779-2": {
@@ -453,7 +453,7 @@
         ],
         "phone": "3195429900",
         "client_name": "Jane Lynch",
-        "client_occupation": "alba\\u00f1il",
+        "client_occupation": "albau1il",
         "client_address": "593 Tommy Bridge Suite 548 Jacquelinefurt, VA 66860",
         "client_id": "21812626",
         "company_name": "Jugo Schneider",
@@ -468,7 +468,7 @@
         "client_occupation": "secretario",
         "client_address": "45494 Carlos Port Apt. 140 West Danieltown, IL 74849",
         "client_id": "29705479",
-        "company_name": "S\\u00e1ndwiches Anderson",
+        "company_name": "Sandwiches Anderson",
         "cluster": "cafeteria"
     },
     "12842731-3": {
@@ -515,10 +515,10 @@
         ],
         "phone": "3187394915",
         "client_name": "Lauren Hammond",
-        "client_occupation": "alba\\u00f1il",
+        "client_occupation": "albau1il",
         "client_address": "967 Carter Trail Paulfurt, MI 79798",
         "client_id": "91372598",
-        "company_name": "S\\u00e1ndwiches Lee",
+        "company_name": "Sandwiches Lee",
         "cluster": "internet"
     },
     "93586991-8": {
@@ -528,7 +528,7 @@
         "client_occupation": "secretario",
         "client_address": "024 John Ridges Suite 129 North Laura, CA 65939",
         "client_id": "93586991",
-        "company_name": "Caf\\u00e9 Whitehead",
+        "company_name": "Cafe Whitehead",
         "cluster": "transporte de alimentos"
     },
     "44046418-8": {
@@ -576,11 +576,13 @@
         "client_occupation": "independiente",
         "client_address": "091 Page Pines Apt. 898 North Alanchester, IA 26785",
         "client_id": "39893331",
-        "company_name": "Pasteler\\u00eda Marquez",
+        "company_name": "Pasteleria Marquez",
         "cluster": "pasteleria"
     },
     "18404723-4": {
-        "accounts": [],
+        "accounts": [
+            "f37980ceb1cf0be9"
+        ],
         "phone": "3153224629",
         "client_name": "Kim Norman",
         "client_occupation": "supervisor",
@@ -610,7 +612,7 @@
         ],
         "phone": "3092890691",
         "client_name": "Matthew Marquez",
-        "client_occupation": "alba\\u00f1il",
+        "client_occupation": "albau1il",
         "client_address": "336 John Bridge Apt. 688 Landrystad, MO 20253",
         "client_id": "75368195",
         "company_name": "Pastelitos Morgan",
@@ -639,7 +641,7 @@
         "client_occupation": "animador",
         "client_address": "USS White FPO AE 21554",
         "client_id": "78966418",
-        "company_name": "S\\u00e1ndwiches Castro",
+        "company_name": "Sandwiches Castro",
         "cluster": "servicio al cliente"
     },
     "77358026-0": {
@@ -655,7 +657,7 @@
         "client_occupation": "independiente",
         "client_address": "044 Michelle Stravenue West Williammouth, TX 92790",
         "client_id": "77358026",
-        "company_name": "Panader\\u00eda Curry",
+        "company_name": "Panaderia Curry",
         "cluster": "cafeteria"
     },
     "83683305-8": {
@@ -669,7 +671,7 @@
         "client_occupation": "conductor",
         "client_address": "632 Wheeler Crest Collierview, CA 34522",
         "client_id": "83683305",
-        "company_name": "Pasteler\\u00eda Ross",
+        "company_name": "Pasteleria Ross",
         "cluster": "venta de comestibles"
     },
     "20474747-3": {
@@ -723,7 +725,7 @@
         "client_occupation": "conductor",
         "client_address": "9111 Turner Ridge Port Heather, MD 69214",
         "client_id": "38237476",
-        "company_name": "T\\u00e9 e infusiones Harding",
+        "company_name": "Te e infusiones Harding",
         "cluster": "panaderia"
     },
     "85616743-7": {
@@ -735,7 +737,7 @@
         "client_occupation": "animador",
         "client_address": "6502 Douglas Brook Suite 656 Lake Courtney, ME 46819",
         "client_id": "85616743",
-        "company_name": "Caf\\u00e9 Moore",
+        "company_name": "Cafe Moore",
         "cluster": "transporte de alimentos"
     },
     "33260689-0": {

@@ -76,7 +76,7 @@
         ],
         "phone": "3204859607",
         "client_name": "William Davis",
-        "client_occupation": "alba\\u00f1il",
+        "client_occupation": "albanil",
         "client_address": "738 Gibson Cove Apt. 530 Morrowstad, RI 71543"
     },
     "19351004": {
@@ -211,7 +211,7 @@
         "accounts": [],
         "phone": "3071333019",
         "client_name": "Carl Horn",
-        "client_occupation": "alba\\u00f1il",
+        "client_occupation": "albanil",
         "client_address": "97132 Joshua Drives East Nicole, NV 22898"
     },
     "47591522": {
@@ -354,10 +354,13 @@
         "client_address": "10295 Edwards Road Christophershire, ME 30846"
     },
     "86874960": {
-        "accounts": [],
+        "accounts": [
+            "1428a181b78f337e",
+            "6c929ca633ef7654"
+        ],
         "phone": "3051269530",
         "client_name": "Jennifer Howard",
-        "client_occupation": "alba\\u00f1il",
+        "client_occupation": "albanil",
         "client_address": "265 Ramos Fall Kimberlyfort, MN 86816"
     },
     "88919645": {
