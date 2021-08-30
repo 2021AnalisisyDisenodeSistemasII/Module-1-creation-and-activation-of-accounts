@@ -10,18 +10,20 @@
 > Juan Cardona 
 ---
 
-Before start project download and install [Node.js](https://nodejs.org/es/) and import the required modules running in the backend directory the command: 
+Before start project download and install [Node.js](https://nodejs.org/es/) and import the required modules running in the backend and frontend directories the command: 
 
 ### `npm install`
 
-Then, to start the Backend server run in the backend directory the command:
+To start the Backend server run in the backend directory the command:
 
 ### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits on the code.\
-You will also see any lint errors in the console.
+To start the frontend server run in the frontend directory the command:
 
-To start the frontend project go to the frontend directory and open the **welcome.html** file on your browser. 
+### `npm run serve`
+
+Runs the app in the development mode.\
+Open [http://localhost:8080](http://localhost:8080) to view it in the browser.
