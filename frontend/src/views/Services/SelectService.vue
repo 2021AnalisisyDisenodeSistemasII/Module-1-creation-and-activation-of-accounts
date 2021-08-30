@@ -199,6 +199,7 @@
 <script>
 import GetSucursalCashier from "../../components/GetSucursalCashier.vue";
 export default {
+  name: "SelectService",
   components: { GetSucursalCashier },
 };
 </script>
