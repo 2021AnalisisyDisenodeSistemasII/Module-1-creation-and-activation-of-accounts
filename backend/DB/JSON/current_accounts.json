@@ -939,5 +939,29 @@
         "balance": 0,
         "transactions": [],
         "creation_date": "29-08-2021"
+    },
+    "af738a0e6e46a736": {
+        "isActive": false,
+        "client_id": "10249722",
+        "balance": 0,
+        "sucursal_id": "7",
+        "transactions": [],
+        "creation_date": "23-09-2021"
+    },
+    "62111f09036662ec": {
+        "isActive": false,
+        "client_id": "10249722",
+        "balance": 0,
+        "sucursal_id": "1",
+        "transactions": [],
+        "creation_date": "23-09-2021"
+    },
+    "f319b7d6eb0381a8": {
+        "isActive": false,
+        "client_id": "39861943-0",
+        "balance": 0,
+        "sucursal_id": "8",
+        "transactions": [],
+        "creation_date": "23-09-2021"
     }
 }

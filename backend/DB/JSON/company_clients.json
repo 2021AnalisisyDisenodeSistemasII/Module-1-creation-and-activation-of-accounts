@@ -69,7 +69,9 @@
         "cluster": "transporte de alimentos"
     },
     "39861943-0": {
-        "accounts": [],
+        "accounts": [
+            "f319b7d6eb0381a8"
+        ],
         "phone": "3086720245",
         "client_name": "Jennifer Finley",
         "client_occupation": "director",
