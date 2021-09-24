@@ -8,6 +8,9 @@ function get_client(req, res) {
     let client = clients[client_id]
     if (client) {
         delete client["accounts"]
+        if (!client["client_id"]) {
+            client["client_id"] = client_id
+        }
         res.send(client)
     } else {
         res.send({ "msg": "Client not found" })
