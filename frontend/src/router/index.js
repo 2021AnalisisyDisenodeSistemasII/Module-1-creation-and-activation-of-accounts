@@ -1,14 +1,23 @@
-import { createRouter, createWebHistory } from 'vue-router'
+import Vue from 'vue'
+import VueRouter from 'vue-router'
+
+Vue.use(VueRouter)
 
 const routes = [
-  { path: '/', name: 'Home', component: () => import('../views/Home.vue') },
-  { path: '/login', name: 'Login', component: () => import('../views/Login.vue') },
-  { path: '/services', name: 'Services', component: () => import('../views/Services/SelectService.vue') },
-  { path: '/create-account', name: 'ServicesCreateAccount', component: () => import('../views/Services/CreateAccount.vue') }
+  { name: "Home", path: "/", component: () => import("@/views/Home.vue") },
+  { name: "Login", path: "/login", component: () => import("@/views/Login.vue") },
+  { name: "Logout", path: "/logout", component: () => import("@/views/Logout.vue") },
+  { name: "Debug", path: "/debug", component: () => import("@/views/Debug.vue") },
+  { name: "Services", path: "/services", component: () => import('@/views/Services.vue') },
+  { name: "CreateAccount", path: "/create-account", component: () => import('@/views/CreateAccount.vue') },
+  { name: "Error", path: "/error", component: () => import('@/views/Error.vue') },
+  { path: "*", component: () => import('@/views/404.vue') }
+
 ]
 
-const router = createRouter({
-  history: createWebHistory(process.env.BASE_URL),
+const router = new VueRouter({
+  mode: 'history',
+  base: process.env.BASE_URL,
   routes
 })
 
