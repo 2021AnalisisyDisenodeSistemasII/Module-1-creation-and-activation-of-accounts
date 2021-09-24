@@ -1,127 +1,90 @@
 <template>
-  <div class="login">
-    <div class="container">
-      <div class="card shadow-lg o-hidden border-0 my-5">
-        <div class="card-body p-0">
-          <div class="row justify-content-center">
-            <div class="col-lg-6 d-none d-lg-flex">
-              <div
-                class="flex-grow-1 bg-login-image"
-                style="
-                  background: url('./assets/img/pigs/pig3.png') center / contain
-                    space;
-                "
-              ></div>
-            </div>
-            <div class="col-lg-6">
-              <div class="p-5">
-                <div class="text-center">
-                  <h4 class="text-dark mb-2">
-                    Select Sucursal and Cashier IDs
-                  </h4>
-                </div>
-                <form class="user">
-                  <div id="floating-label" class="form-floating mb-3">
-                    <select
-                      @click="getCashiers(current_sucursal.sucursal_id)"
-                      class="form-select form-select"
-                      v-model="current_sucursal"
-                    >
-                      <optgroup label="Sucursals">
-                        <option
-                          v-for="(suc, index) in sucursals"
-                          v-bind:value="suc"
-                          :key="index"
-                        >
-                          {{ suc.sucursal_id + " " + suc.city }}
-                        </option>
-                      </optgroup>
-                    </select>
-                  </div>
+  <v-container fluid fill-height>
+    <v-card class="mx-auto" width="535px" align="center" justify="center"
+      ><v-row>
+        <v-col>
+          <v-img src="../assets/img/pig3.png" height="200px" contain></v-img>
+        </v-col>
+        <v-col>
+          <v-card-title class="justify-center">
+            Select the Sucursal and the Cashier</v-card-title
+          >
 
-                  <div id="floating-label" class="form-floating mb-3">
-                    <select
-                      class="form-select form-select"
-                      v-model="current_cashier"
-                    >
-                      <optgroup label="These are the cashiers">
-                        <option
-                          v-for="cash in cashiers"
-                          v-bind:value="cash"
-                          :key="cash"
-                        >
-                          {{ cash }}
-                        </option>
-                      </optgroup>
-                    </select>
-                  </div>
-
-                  <router-link
-                    class="btn btn-dark btn-user w-100"
-                    role="button"
-                    to="services"
-                    @click="postSucCas(current_sucursal, current_cashier)"
-                    v-show="current_cashier != null"
-                  >
-                    Log In
-                  </router-link>
-                </form>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
+          <v-card-text>
+            <v-form>
+              <v-select
+                prepend-icon="mdi-bank"
+                v-model="sucursal"
+                :rules="[() => !!sucursal || 'This field is required']"
+                :items="sucursals"
+                label="Sucursal"
+                placeholder="Select..."
+                required
+              ></v-select>
+              <v-select
+                v-show="!!sucursal"
+                prepend-icon="mdi-cash-register"
+                v-model="cashier"
+                :rules="[() => !!cashier || 'This field is required']"
+                :items="cashiers"
+                label="Cashier"
+                placeholder="Select..."
+                required
+              ></v-select>
+              <v-btn
+                v-show="!!sucursal && !!cashier"
+                color="grey"
+                @click="onSubmit(sucursal, cashier)"
+                >Login</v-btn
+              >
+            </v-form>
+          </v-card-text>
+        </v-col>
+      </v-row>
+    </v-card>
+  </v-container>
 </template>
 
-<script>
+<script >
+//
+import { GET_SUCURSALS, GET_CASHIERS, LOGIN } from "../store/actions.type";
 export default {
-  data() {
-    return {
-      sucursals: [],
-      cashiers: [],
-      current_sucursal: null,
-      current_cashier: null,
-    };
-  },
+  data: () => ({
+    sucursals: [],
+    sucursal: null,
+    cashiers: [],
+    cashier: null,
+    show: false,
+  }),
+
   methods: {
-    getSucursals: function () {
-      fetch("http://localhost:3000/sucursals")
-        .then((res) => res.json())
-        .then((data) => (this.sucursals = data.sucursals));
-    },
-    getCashiers: function (id) {
-      if (id) {
-        fetch("http://localhost:3000/cashiers/" + id)
-          .then((res) => res.json())
-          .then((data) => (this.cashiers = data.cashiers));
-      }
-    },
-    postSucCas: function (current_sucursal, current_cashier) {
-      if (current_sucursal && current_cashier) {
-        fetch("http://localhost:3000/login", {
-          method: "POST",
-          headers: {
-            "Content-Type": "application/json",
-          },
-          body: JSON.stringify({
-            sucursal: current_sucursal,
-            cashier_id: current_cashier,
-          }),
-        });
-      }
+    onSubmit(sucursal, cashier_id) {
+      this.$store
+        .dispatch(LOGIN, { sucursal, cashier_id })
+        .then(() => this.$router.push("/"));
     },
   },
-  beforeMount() {
-    this.getSucursals();
+  watch: {
+    sucursal() {
+      this.cashier = null;
+      this.$store
+        .dispatch(GET_CASHIERS, this.$data.sucursal[0].split(" - ")[0])
+        .then((data) => {
+          this.cashiers = data;
+        });
+    },
+  },
+  mounted() {
+    this.$store.dispatch(GET_SUCURSALS).then((data) => {
+      for (const key in data) {
+        this.sucursals.push(
+          `${key} - ${JSON.parse(JSON.stringify(data))[key].city}`
+        );
+      }
+    });
   },
 };
 </script>
 
-<style>
-.container {
-  width: 90%;
-  height: 90%;
-}
+<style scoped>
 </style>
