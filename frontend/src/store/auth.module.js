@@ -1,10 +1,11 @@
+
 // @ is equal to src/
 import ApiService from "@/common/api.service";
-
-
+import SessionService from "../common/session.service";
 import {
     LOGIN,
-    LOGOUT
+    LOGOUT,
+    CHECK_AUTH
 } from "./actions.type";
 import {
     SET_AUTH,
@@ -27,6 +28,17 @@ const actions = {
                 context.commit(PURGE_AUTH);
             })
 
+    },
+    [CHECK_AUTH](context) {
+      if (SessionService.getUser()) {
+        return ApiService.get("login/current")
+          .then(({ data }) => {
+            context.commit(SET_AUTH, data);
+          })
+          
+      } else {
+        context.commit(PURGE_AUTH);
+      }
     }
 
 
@@ -38,10 +50,12 @@ const mutations = {
     [SET_AUTH](state, user) {
         state.isAuthenticated = true;
         state.user = user;
+        SessionService.saveUser(user);
     },
     [PURGE_AUTH](state) {
         state.isAuthenticated = false;
         state.user = {};
+        SessionService.destroyUser()
     }
 };
 
