@@ -123,8 +123,8 @@
 import { mapGetters, mapState } from "vuex";
 import {
   GET_CLIENT,
-  PURGUE_CLIENT,
   CREATE_ACCOUNT,
+  PURGUE_CLIENT,
 } from "../store/actions.type";
 export default {
   data() {
@@ -172,8 +172,9 @@ export default {
       error: (state) => state.account.error,
     }),
   },
-  beforeMount() {
-    this.$store.dispatch(PURGUE_CLIENT);
-  },
+  async mounted(){
+    await this.$store.dispatch(PURGUE_CLIENT)
+  }
+
 };
 </script>

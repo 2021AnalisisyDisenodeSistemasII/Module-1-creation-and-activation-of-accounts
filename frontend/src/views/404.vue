@@ -3,7 +3,7 @@
     appear
     name="fab-transition"
     :duration="{ enter: 500, leave: 800 }"
-    ><v-container fluid fill-height v-show="show">
+    ><v-container fluid fill-height >
       <v-card class="mx-auto" width="535px" align="center"
         ><v-row>
           <v-col cols="6">
@@ -31,10 +31,8 @@
 <script>
 export default {
   data: () => ({
-    show: false,
   }),
   mounted() {
-    this.show = !this.show;
   },
 };
 </script>

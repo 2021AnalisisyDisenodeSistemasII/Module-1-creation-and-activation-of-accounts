@@ -51,9 +51,18 @@
 </template>
 
 <script>
+import { mapGetters } from 'vuex';
+import { CHECK_AUTH } from '../store/actions.type';
 export default {
   data: () => ({
     display: false,
   }),
+  computed: {
+    ...mapGetters(["isAuthenticated"]),
+  },
+  async beforeMount() {
+    await this.$store.dispatch(CHECK_AUTH);
+
+  },
 };
 </script>
