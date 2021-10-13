@@ -7,7 +7,6 @@ const routes = [
   { name: "Home", path: "/", component: () => import("@/views/Home.vue") },
   { name: "Login", path: "/login", component: () => import("@/views/Login.vue") },
   { name: "Logout", path: "/logout", component: () => import("@/views/Logout.vue") },
-  { name: "Debug", path: "/debug", component: () => import("@/views/Debug.vue") },
   { name: "Services", path: "/services", component: () => import('@/views/Services.vue') },
   { name: "CreateAccount", path: "/create-account", component: () => import('@/views/CreateAccount.vue') },
   { name: "Error", path: "/error", component: () => import('@/views/Error.vue') },
