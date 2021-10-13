@@ -17,31 +17,6 @@ const ApiService = {
             throw new Error(`StarBank ApiService ${error}`);
         });
     },
-
-
-
-
-
-
-    // query(resource, params) {
-    //     return axiosClient.get(resource, params).catch((error) => {
-    //         throw new Error(`StarBank ApiService ${error}`);
-    //     });
-    // },
-
-    // update(resource, slug, params) {
-    //     return axiosClient.put(`${resource}/${slug}`, params);
-    // },
-
-    // put(resource, params) {
-    //     return axiosClient.put(`${resource}`, params);
-    // },
-
-    // delete(resource) {
-    //     return axiosClient.delete(resource).catch((error) => {
-    //         throw new Error(`StarBank ApiService ${error}`);
-    //     });
-    // }
 };
 
 export default ApiService;
