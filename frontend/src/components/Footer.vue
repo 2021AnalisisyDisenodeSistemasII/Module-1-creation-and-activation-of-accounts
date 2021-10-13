@@ -13,16 +13,13 @@
     <v-row justify="center" no-gutters>
       <v-col class="primary lighten-2 py-4 text-center white--text" cols="8">
         {{ new Date().getFullYear() }} — <strong>StarBank</strong> —
-        <v-btn class="mx-2" icon to="/debug">
-          <v-icon size="24px"> mdi-bug </v-icon>AH!
-        </v-btn>
       </v-col>
     </v-row>
     <div>
       <v-switch
-        class="mx-4"
+        class="ma-4"
         v-model="$vuetify.theme.dark"
-        :hint="!$vuetify.theme.dark ? 'Dark ' : 'Light '"
+        prepend-icon="mdi-theme-light-dark"
         persistent-hint
       ></v-switch>
     </div>
